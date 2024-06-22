@@ -1,0 +1,38 @@
+html,body{
+    height: 100%;
+}
+
+.container {
+    height: 100%;
+  }
+  
+  .div1 {
+
+    width: 30%;
+    display: flex;
+    height: 100%;
+    white-space: normal;
+    background-color: tomato;
+    margin-right: 2px;
+  }
+  .div2 {
+
+    width: 70%;
+    height: 100%;
+    display: flex; 
+   
+    white-space: normal;
+    background-color: rgb(71, 255, 209);
+    margin-left: 2px;
+  }
+  .div3 {
+
+    width: 70%;
+    height: 100%;
+  
+    white-space: normal;
+    background-color: rgb(71, 255, 209);
+    margin-left: 2px;
+  }
+
+  
